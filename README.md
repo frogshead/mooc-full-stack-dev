@@ -1,1 +1,5 @@
 # mooc-full-stack-dev
+
+![task 0.3 - Goto page](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgVGFzayAwLjMgLSBHb3RvIHBhZ2UKClVzZXItPkJyb3dzZXI6IFdyaXRlIHVybCB0byBhZGRyc3MgZmllbGQKABwHLT5TZXJ2ZXI6IEdldCAiaHR0cHM6Ly9mdWxsc3RhY2stZXhhbXBsZWFwcC5oZXJva3VhcHAuY29tL25vdGVzIgoAOQYAaAsgUmVzcG9uc2UgIm1haW4iIAAkBQCBGgUgYW5kIHN0YXR1cyAiMjAwIiBPSwBHQm1haW4uY3MAbh4AHQgAKFtqAF8jagAqV2RhdGEuanNvbgCCdB0AHQkAgnQV&s=napkin)
+
+
